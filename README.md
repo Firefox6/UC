@@ -44,7 +44,7 @@ Running this shortcut too frequently through some automations (e.g. Every time I
 - [Indev v1.0 (First Beta - Unstable)](https://www.icloud.com/shortcuts/1f272ebb56e34961b57d50517237186f)
 
 ## Creating your own module
-It is possible to create your own module. More info available at [/docs/theming.md](../main/docs/theming.md).
+It is possible to create your own module. More info available at [/theming.md](../main/theming.md).
 
 ## FAQ
 
