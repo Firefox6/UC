@@ -21,7 +21,7 @@ Before UC can work, we need to make sure all images are in the correct folders.
 
 ### Get everything set up ###
 On your iPhone, click on the link below for the installer shortcut. Run it to download and extract all files. Once completed, you can delete the installer shortcut again.
-* **[Installer - Indev v1.0 (First Beta - Unstable)](https://www.icloud.com/shortcuts/925abb6b53364e7cacf32c0c2e6f21d6)** `15 June 2021`
+* **[Installer - Indev v1.0 (First Beta - Unstable)](https://www.icloud.com/shortcuts/b23f6125c9934679a0ac171b04d9ca09)** `15 June 2021`
 
 ## Get the shortcut
 Click on the link below to install the most recent version of UC.
