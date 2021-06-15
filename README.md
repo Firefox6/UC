@@ -7,7 +7,6 @@ UC is an iOS Shortcut created by u/Firefox6_66. This shortcut allows you to add 
 * [Setup](#setup)
 * [Automate](#automate)
 * [Modules](#modules)
-* [Creating your own module](#creating your own module)
 * [FAQ](#faq)
 
 ## Requirements
